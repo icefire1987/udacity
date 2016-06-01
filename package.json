@@ -1,0 +1,23 @@
+{
+  "name": "udacity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "console.log(\"hello world\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icefire1987/udacity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icefire1987/udacity/issues"
+  },
+  "homepage": "https://github.com/icefire1987/udacity#readme"
+}
